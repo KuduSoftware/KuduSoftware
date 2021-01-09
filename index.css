@@ -30,6 +30,7 @@
   width: 50%;
   margin-left: 5vw;
   text-align: left;
+  min-width: 500px;
 }
 
 .break {
@@ -37,4 +38,5 @@
   border-bottom: white solid 2px;
   margin-left: 5vw;
   width: 25%;
+  min-width: 500px;
 }
