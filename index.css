@@ -15,8 +15,8 @@
 .root {
   background-color: rgb(14, 16, 25);
   width: 100vw;
-  height: calc(99vh - 20px);
-  margin-top: 20px;
+  height: calc(99vh - 5vh);
+  margin-top: 5vh;
 }
 
 .font {
@@ -27,13 +27,14 @@
 }
 
 .item {
-  margin: 0 auto;
-  width: 500px;
+  width: 50%;
+  margin-left: 5vw;
   text-align: left;
 }
 
 .break {
+  margin-bottom: 2vh;
   border-bottom: white solid 2px;
-  margin: 0 auto 20px auto;
-  width: 500px;
+  margin-left: 5vw;
+  width: 25%;
 }
